@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">A10-RV</string>
+    <string-array name="DataBAses">
+        <item>iPad</item>
+        <item>Xoom</item>
+        <item>PlayBook</item>
+        <item>TouchPad</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Apple Inc.</item>
+        <item>Motorola</item>
+        <item>Motion in research</item>
+        <item>HP</item>
+    </string-array>
+
+
+</resources>
